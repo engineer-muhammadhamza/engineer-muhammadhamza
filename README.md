@@ -1,16 +1,30 @@
 ## Hi there 👋
 
 <!--
-**engineer-muhammadhamza/engineer-muhammadhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm Muhammad Hamza
 
-Here are some ideas to get you started:
+🎓 Computer Engineer graduated from COMSATS University Islamabad, Abbottabad Campus.   
+💻 Currently working as a Data Engineering Intern at Systems Limited.
+🚀 Passionate about Data Engineering and AI/ML. Building scalable data pipelines and machine learning solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 Skills
+• SQL (PostgreSQL)  
+• Python  
+• ETL Pipelines  
+• Microsoft Fabric  
+• Machine Learning  
+• Flask & AWS  
+
+🔹 Featured Projects
+• Sign Language Generation for Visual Aid of Special Person (FYP funded by Pakistan Engineering Council)
+• Email Spam & Phishing Detection System (ML + Flask Deployment)
+• Data Engineering Practice Projects (SQL, ETL, Data Modeling)
+
+📚 Currently Learning
+• Advanced Data Engineering Concepts  
+• Microsoft Fabric & Lakehouse Architecture  
+• Cloud Data Pipelines  
+
+📫 Connect with me on LinkedIn
+https://www.linkedin.com/in/muhammad-hamza-762123320
 -->
